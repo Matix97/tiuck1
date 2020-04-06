@@ -4,4 +4,5 @@ a plikiem, który powstanie po sformtowaniu z wykorzytanieme spotless.
 Przy znaku minus mamy stary plik, zaś przy znaku plus nowy. Pierwsza cyfra 
 mówi o numerze linii startowej, zaś liczba po przecinku o liczbie linii.
 
-###Zadanie 
+###Zadanie 1.2
+Google formatter ma trochę mniejsze wcięcia.

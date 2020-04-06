@@ -19,7 +19,7 @@ public class Main {
    * This is the main method which makes use of addNum method.
    *
    * @param args Unused.
-   * @return Nothing.
+
    */
   public static void main(String[] args) {
     System.out.println("Hello world");
